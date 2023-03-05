@@ -1,0 +1,9 @@
+Package: com.yazd.ytyx
+Name: YTYX
+Author: Yazd 
+Description: ***Youtube & Youtube Music Activate all Beta ***
+Depends: mobilesubstrate
+Maintainer: Yazd <yazd@yazd.c>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.3.0
